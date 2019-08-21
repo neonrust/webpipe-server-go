@@ -16,9 +16,9 @@ Also, WebPipe has NO legacy support, or burden depending on how you wish to look
 
 ### Dependencies ###
 
-WebPipe has no javascript dependencies. However, it depends on the web browser to support WebSockets.
+WebPipe has no javascript dependencies. However, it depends on the web browser to support [WebSockets](https://html.spec.whatwg.org/multipage/web-sockets.html).
 
 
 ### Contacts ###
 
-* bitbucket@0x1.se
+* github@0x1.se
